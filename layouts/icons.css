@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'icomoon';
+    src:url('icons/icomoon.eot?-bqmo4i');
+    src:url('icons/icomoon.eot?#iefix-bqmo4i') format('embedded-opentype'),
+        url('icons/icomoon.woff?-bqmo4i') format('woff'),
+        url('icons/icomoon.ttf?-bqmo4i') format('truetype'),
+        url('icons/icomoon.svg?-bqmo4i#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"],
+[class*=" icon-"],
+#menu-social a:before,
+.mejs-controls button:before {
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#menu-social li a[href*="amazon"]:before {
+    content: "\e600";
+}
+#menu-social li a[href*="behance"]:before {
+    content: "\e601";
+}
+.icon-close:before {
+    content: "\e602";
+}
+#menu-social li a[href*="dribbble"]:before {
+    content: "\e603";
+}
+#menu-social a[href*="facebook"]:before {
+    content: "\e604";
+}
+#menu-social a[href*="plus.google"]:before {
+    content: "\e605";
+}
+#menu-social a[href*="instagram"]:before {
+    content: "\e606";
+}
+#menu-social a[href*="itunes"]:before {
+    content: "\e607";
+}
+#menu-social a[href*="last"]:before {
+    content: "\e608";
+}
+.icon-left:before {
+    content: "\e609";
+}
+#menu-social a[href*="linkedin"]:before {
+    content: "\e60a";
+}
+#menu-social a[href*="pinterest"]:before {
+    content: "\e60b";
+}
+.icon-right:before {
+    content: "\e60c";
+}
+#menu-social a[href*="soundcloud"]:before {
+    content: "\e60d";
+}
+.icon-top:before {
+    content: "\e60e";
+}
+#menu-social a[href*="twitter"]:before {
+    content: "\e60f";
+}
+#menu-social a[href*="vimeo"]:before {
+    content: "\e610";
+}
+#menu-social a[href*="youtube"]:before {
+    content: "\e611";
+}
+#menu-social a[href*="deezer"]:before {
+    content: "\e616";
+}
+#menu-social a[href*="grooveshark"]:before {
+    content: "\e617";
+}
+#menu-social a[href*="spotify"]:before {
+    content: "\e618";
+}
+#menu-social a[href*="rdio"]:before {
+    content: "\e619";
+}
+.mejs-controls .mejs-unmute button:before {
+    content: "\e612";
+}
+.mejs-controls .mejs-pause button:before {
+    content: "\e613";
+}
+.mejs-controls .mejs-play button:before {
+    content: "\e614";
+}
+.mejs-controls .mejs-mute button:before {
+    content: "\e615";
+}

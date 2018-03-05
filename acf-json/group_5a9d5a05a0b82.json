@@ -1,0 +1,62 @@
+{
+    "key": "group_5a9d5a05a0b82",
+    "title": "Quotes",
+    "fields": [
+        {
+            "key": "field_5a9d5a2eb7ff6",
+            "label": "Quote - Name",
+            "name": "quote_name",
+            "type": "text",
+            "instructions": "Name des Zitierten mit Funktion",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "Max Mustermann, Komponist",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5a9d5a85d1318",
+            "label": "Quote Inhalt",
+            "name": "quote_content",
+            "type": "textarea",
+            "instructions": "Ohne Anführungszeichen.",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "quote"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "acf_after_title",
+    "style": "seamless",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1520265474
+}

@@ -1,0 +1,1357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eveny\n"
+"POT-Creation-Date: 2015-03-20 16:16+0100\n"
+"PO-Revision-Date: 2017-01-24 15:39+0100\n"
+"Language-Team: Themes Kingdom <info@themeskingdom.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26
+msgid ""
+"Looks like the page you were looking for doesn&rsquo;t exist. Sorry about "
+"that."
+msgstr ""
+
+#: 404.php:34
+msgid "Check the web address for typos, or go to "
+msgstr ""
+
+#: 404.php:36
+msgid "HOME PAGE"
+msgstr ""
+
+#: archive-gallery.php:29
+msgid "Gallery Archives"
+msgstr ""
+
+#: archive-gallery.php:34 templates/template-events.php:38
+#: templates/template-gallery.php:37
+msgid "All"
+msgstr "Alle"
+
+#: comments.php:33 comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34 comments.php:52
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:34
+msgid "&copy; Copyright 2014."
+msgstr ""
+
+#: footer.php:35
+msgid "http://demo.themeskingdom.com/eveny"
+msgstr ""
+
+#: footer.php:35
+#, php-format
+msgid "Powered by %s."
+msgstr ""
+
+#: footer.php:36
+#, php-format
+msgid "%1$s Theme by %2$s."
+msgstr ""
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:97
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:106
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:114
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:122
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:182
+msgid "Message Sent!"
+msgstr "Nachricht gesendet!"
+
+#: header.php:61
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:101
+msgid "Connect"
+msgstr "Social"
+
+#: index.php:19 single.php:12
+msgid "Blog Archives"
+msgstr ""
+
+#: search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suche: %s"
+
+#: inc/customizer.php:55
+msgid "Front Page Options"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Settings for Front Page Template"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Front Page Colors"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Colors for Front Page Template"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Custom Header Image"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Logo and Favicon"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Upload Retina Logo"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid ""
+"Upload double size image for retina displays. JPEG, GIF or PNG image, "
+"recommended up to 500KB"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Upload a Favicon"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Archives layout settings"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Custom Header Settings"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Turn Custom Header on / off"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Custom Header Content"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid ""
+"This is displayed on Front Page Template as top header on custom header "
+"image background"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Sections Order Settings"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid ""
+"Here you can select which sections will display on Front Page Template and "
+"in what order."
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Events Section Settings"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Here you can enter content for Events section"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "News Section Settings"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Here you can enter content for News section"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Gallery Section Settings"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid ""
+"Here you can choose category for Gallery section that is displayed on Front "
+"Page and enter content for that section"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Page Section Settings"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Here you can choose which page content will be displayed"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "Contact Page Settings"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "Custom Header Colors"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Albums Section Colors"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Events Section Colors"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "News Section Colors"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "Gallery Section Colors"
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Page Section Colors"
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "Main Theme Color"
+msgstr ""
+
+#: inc/customizer.php:267 inc/customizer.php:332 inc/customizer.php:373
+#: inc/customizer.php:414 inc/customizer.php:467 inc/customizer.php:508
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:279 inc/customizer.php:385 inc/customizer.php:426
+#: inc/customizer.php:479
+msgid "Heading Color"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "Headings Color"
+msgstr ""
+
+#: inc/customizer.php:356 inc/customizer.php:397 inc/customizer.php:450
+#: inc/customizer.php:491
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer.php:438
+msgid "Post Meta Color"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "Section One Content"
+msgstr ""
+
+#: inc/customizer.php:532 inc/customizer.php:553 inc/customizer.php:574
+#: inc/customizer.php:595 inc/customizer.php:616
+msgid "Albums slider"
+msgstr ""
+
+#: inc/customizer.php:533 inc/customizer.php:554 inc/customizer.php:575
+#: inc/customizer.php:596 inc/customizer.php:617
+msgid "Events slider"
+msgstr ""
+
+#: inc/customizer.php:534 inc/customizer.php:555 inc/customizer.php:576
+#: inc/customizer.php:597 inc/customizer.php:618
+msgid "Latest news"
+msgstr ""
+
+#: inc/customizer.php:535 inc/customizer.php:556 inc/customizer.php:577
+#: inc/customizer.php:598 inc/customizer.php:619
+msgid "Gallery"
+msgstr ""
+
+#: inc/customizer.php:536 inc/customizer.php:557 inc/customizer.php:578
+#: inc/customizer.php:599 inc/customizer.php:620
+msgid "Page Content"
+msgstr ""
+
+#: inc/customizer.php:537 inc/customizer.php:558 inc/customizer.php:579
+#: inc/customizer.php:600 inc/customizer.php:621
+msgid "Disable Section"
+msgstr "\"ROUTE\" deaktivieren"
+
+#: inc/customizer.php:548
+msgid "Section Two Content"
+msgstr ""
+
+#: inc/customizer.php:569
+msgid "Section Three Content"
+msgstr ""
+
+#: inc/customizer.php:590
+msgid "Section Four Content"
+msgstr ""
+
+#: inc/customizer.php:611
+msgid "Section Five Content"
+msgstr ""
+
+#: inc/customizer.php:636
+msgid "Choose Events Category"
+msgstr ""
+
+#: inc/customizer.php:649
+msgid "Events section title"
+msgstr ""
+
+#: inc/customizer.php:661
+msgid "Events section text"
+msgstr ""
+
+#: inc/customizer.php:673
+msgid "Events section button text"
+msgstr ""
+
+#: inc/customizer.php:685
+msgid "Events section button URL"
+msgstr ""
+
+#: inc/customizer.php:703
+msgid "Choose News Category"
+msgstr ""
+
+#: inc/customizer.php:716
+msgid "News section title"
+msgstr ""
+
+#: inc/customizer.php:728
+msgid "News section text"
+msgstr ""
+
+#: inc/customizer.php:740
+msgid "News section button text"
+msgstr ""
+
+#: inc/customizer.php:757
+msgid "Choose Gallery Category"
+msgstr ""
+
+#: inc/customizer.php:770
+msgid "Gallery section title"
+msgstr ""
+
+#: inc/customizer.php:782
+msgid "Gallery section text"
+msgstr ""
+
+#: inc/customizer.php:794
+msgid "Gallery section button text"
+msgstr ""
+
+#: inc/customizer.php:811
+msgid "Choose Page"
+msgstr ""
+
+#: inc/customizer.php:832
+msgid "Enable Custom Header"
+msgstr ""
+
+#: inc/customizer.php:844
+msgid "Custom header title"
+msgstr ""
+
+#: inc/customizer.php:856
+msgid "Custom header text"
+msgstr ""
+
+#: inc/customizer.php:868
+msgid "Custom header button text"
+msgstr ""
+
+#: inc/customizer.php:880
+msgid "Custom header button link"
+msgstr ""
+
+#: inc/customizer.php:893
+msgid "Choose layout for Blog archive"
+msgstr ""
+
+#: inc/customizer.php:898 inc/tk-functions.php:213 inc/tk-functions.php:235
+#: inc/tk-functions.php:257 inc/tk-functions.php:282
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:899
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer.php:917
+msgid "Disable contact page map"
+msgstr ""
+
+#: inc/customizer.php:931
+msgid "Disable contact form captcha"
+msgstr ""
+
+#: inc/customizer.php:945
+msgid "Disable contact form"
+msgstr ""
+
+#: inc/customizer.php:960
+msgid "Contact Email address"
+msgstr ""
+
+#: inc/customizer.php:975
+msgid "Map Color"
+msgstr ""
+
+#: inc/customizer.php:988
+msgid "Map X coordinate"
+msgstr ""
+
+#: inc/customizer.php:1002
+msgid "Map Y coordinate"
+msgstr ""
+
+#: inc/customizer.php:1016
+msgid "Map zoom factor"
+msgstr ""
+
+#: inc/customizer.php:1031
+msgid "Map marker title"
+msgstr ""
+
+#: inc/customizer.php:1046
+msgid "Map type"
+msgstr ""
+
+#: inc/customizer.php:1069
+msgid "Upload Marker Icon (80 x 90 px)"
+msgstr ""
+
+#: inc/meta-box-config.php:16 inc/meta-box-config.php:22
+msgid "Advertisement Link"
+msgstr ""
+
+#: inc/meta-box-config.php:29
+msgid "Custom Banner Code"
+msgstr ""
+
+#: inc/meta-box-config.php:43
+msgid "Advertisement"
+msgstr ""
+
+#: inc/meta-box-config.php:49
+msgid "Banner Stats"
+msgstr ""
+
+#: inc/meta-box-config.php:64
+msgid "Event details"
+msgstr "Konzertdetails"
+
+#: inc/meta-box-config.php:71
+msgid "Disable \"Directions\" display"
+msgstr "\"ROUTE\" deaktivieren"
+
+#: inc/meta-box-config.php:72
+msgid "Check this box if you do not want to display \"Directions\" button"
+msgstr "Hier aktivieren um \"ROUTE\" zu verstecken"
+
+#: inc/meta-box-config.php:79
+msgid "Event location"
+msgstr "Konzertadresse"
+
+#: inc/meta-box-config.php:80
+msgid "Enter event address in this format: Street Nr., Street Name, Country"
+msgstr "Konzertadresse in diesem Format: [NAME] | Straße Nummer, Stadt"
+
+#: inc/meta-box-config.php:87
+msgid "Show \"SOLD OUT\" button"
+msgstr "\"AUSVERKAUFT\" anzeigen"
+
+#: inc/meta-box-config.php:88
+msgid "Check this box if you want to show \"SOLD OUT\" button"
+msgstr "Hier aktivieren um \"AUSVERKAUFT\" anzuzeigen."
+
+#: inc/meta-box-config.php:95
+msgid "Buy tickets link"
+msgstr "Tickets Link"
+
+#: inc/meta-box-config.php:96
+msgid "Enter URL address of page where your tickets can be purchased"
+msgstr ""
+
+#: inc/meta-box-config.php:110
+msgid "Album details"
+msgstr "CD Details"
+
+#: inc/meta-box-config.php:117
+msgid "Album Info"
+msgstr "CD Info"
+
+#: inc/meta-box-config.php:118
+msgid "Enter additional album info here (artist, genre...)"
+msgstr ""
+
+#: inc/meta-box-config.php:135
+msgid "Slider Fields"
+msgstr ""
+
+#: inc/meta-box-config.php:151
+msgid "Link"
+msgstr ""
+
+#: inc/meta-box-config.php:157
+msgid "Link Text"
+msgstr ""
+
+#: inc/meta-box-config.php:168
+msgid "Link Url"
+msgstr ""
+
+#: inc/meta-box-config.php:178 inc/meta-box-config.php:184
+msgid "Quote Text"
+msgstr ""
+
+#: inc/meta-box-config.php:195
+msgid "Quote Author"
+msgstr ""
+
+#: inc/meta-box-config.php:205
+msgid "Video Link"
+msgstr ""
+
+#: inc/meta-box-config.php:211
+msgid "Video Content"
+msgstr ""
+
+#: inc/meta-box-config.php:212
+msgid "Paste your video link or video embed HTML code"
+msgstr ""
+
+#: inc/meta-box-config.php:225
+msgid "Audio Options"
+msgstr ""
+
+#: inc/meta-box-config.php:231
+msgid "Audio Link"
+msgstr ""
+
+#: inc/meta-box-config.php:232
+msgid "Paste your audio link or audio embed HTML code"
+msgstr ""
+
+#: inc/meta-boxes.php:197 inc/meta-boxes.php:203
+msgid "None"
+msgstr ""
+
+#: inc/meta-boxes.php:329 inc/meta-boxes.php:337
+msgid "Title:  "
+msgstr ""
+
+#: inc/meta-boxes.php:330 inc/meta-boxes.php:338
+msgid "Text:  "
+msgstr ""
+
+#: inc/plugin-activation.php:17
+msgid "TK Shortcodes"
+msgstr ""
+
+#: inc/plugin-activation.php:27
+msgid "TK Custom Post Types"
+msgstr ""
+
+#: inc/plugin-activation.php:37
+msgid "TK Advertising Widget"
+msgstr ""
+
+#: inc/plugin-activation.php:47
+msgid "Wolf Flickr Widget"
+msgstr ""
+
+#: inc/plugin-activation.php:57
+msgid "WP Instagram Widget"
+msgstr ""
+
+#: inc/plugin-activation.php:67
+msgid "Sharify Social Share Buttons"
+msgstr ""
+
+#: inc/plugin-activation.php:84
+msgid "JP Widget Visibility"
+msgstr ""
+
+#: inc/plugin-activation.php:103
+msgid "Tiled Galleries Carousel Without Jetpack"
+msgstr ""
+
+#: inc/plugin-activation.php:126 inc/apis/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugin-activation.php:127 inc/apis/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugin-activation.php:128 inc/apis/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugin-activation.php:129
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugin-activation.php:140 inc/apis/class-tgm-plugin-activation.php:178
+#: inc/apis/class-tgm-plugin-activation.php:489
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugin-activation.php:141 inc/apis/class-tgm-plugin-activation.php:179
+#: inc/apis/class-tgm-plugin-activation.php:1845
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:142
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\"><i class=\"icon-left\"></i></span> Older posts"
+msgstr "<span class=\"meta-nav\"><i class=\"icon-left\"></i></span> Später"
+
+#: inc/template-tags.php:29
+msgid ""
+"Newer posts <span class=\"meta-nav\"><i class=\"icon-right\"></i></span>"
+msgstr "Früher <span class=\"meta-nav\"><i class=\"icon-right\"></i></span>"
+
+#: inc/template-tags.php:55
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:58
+msgid "%title<span class=\"meta-nav\"><i class=\"icon-left\"></i>Previous "
+msgstr "%title<span class=\"meta-nav\"><i class=\"icon-left\"></i>Zurück"
+
+#: inc/template-tags.php:59
+msgid "%title<span class=\"meta-nav\">Next "
+msgstr "%title<span class=\"meta-nav\">Weiter"
+
+#: inc/template-tags.php:89 templates/template-albums.php:71
+msgid "Prev"
+msgstr "Zurück"
+
+#: inc/template-tags.php:90 templates/template-albums.php:72
+msgid "Next"
+msgstr "Weiter"
+
+#: inc/template-tags.php:125
+#, php-format
+msgid "Posted on %s"
+msgstr "Veröffentlicht: %s"
+
+#: inc/template-tags.php:130
+#, php-format
+msgid "by %s"
+msgstr "von %s"
+
+#: inc/template-tags.php:152 inc/template-tags.php:158
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:154
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Geposted in: %s"
+
+#: inc/template-tags.php:160
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:180
+#, php-format
+msgid "Category: %s"
+msgstr "Kategorie: %s"
+
+#: inc/template-tags.php:182
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:184
+#, php-format
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:186
+#, php-format
+msgid "Year: %s"
+msgstr "Jahr: %s"
+
+#: inc/template-tags.php:186
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:188
+#, php-format
+msgid "Month: %s"
+msgstr "Monat: %s"
+
+#: inc/template-tags.php:188
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:190
+#, php-format
+msgid "Day: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:190
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:192
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:194
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:196
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:198
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:200
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:202
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:204
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:206
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:208
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:210
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:214
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:216
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:327
+msgid "Featured"
+msgstr "Demnächst"
+
+#: inc/template-tags.php:341
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:341
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:341
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:348
+msgid "Type:"
+msgstr ""
+
+#: inc/template-tags.php:354
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/template-tags.php:387
+msgid "Buy tickets"
+msgstr "Tickets"
+
+#: inc/template-tags.php:391
+msgid "Sold out!"
+msgstr "Ausverkauft"
+
+#: inc/template-tags.php:398
+msgid "Get directions"
+msgstr "Route"
+
+#: inc/template-tags.php:406
+msgid "Enter your location ( eg. Your Street, Your Contry )"
+msgstr "Geben Sie Ihre Adresse ein"
+
+#: inc/template-tags.php:408
+msgid "Go"
+msgstr "Weiter"
+
+#: inc/tk-functions.php:308
+msgid "You are not alowed to do this!"
+msgstr "Sie haben nicht die Rechte diese Funktion auszuführen!"
+
+#: inc/tk-functions.php:321
+msgid "Please enter your name!"
+msgstr ""
+
+#: inc/tk-functions.php:326
+msgid "Please enter your email!"
+msgstr ""
+
+#: inc/tk-functions.php:331
+msgid "Please enter your message!"
+msgstr ""
+
+#: inc/tk-functions.php:341
+msgid "Invalid text from image!"
+msgstr ""
+
+#: inc/tk-functions.php:352
+msgid "Message from "
+msgstr ""
+
+#: inc/tk-functions.php:358
+msgid "You received e-mail from "
+msgstr ""
+
+#: inc/tk-functions.php:358
+msgid " using "
+msgstr ""
+
+#: inc/tk-functions.php:366
+msgid "Message not sent!"
+msgstr ""
+
+#: inc/tk-functions.php:397
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/tk-widgets.php:20
+msgid " - Twitter"
+msgstr ""
+
+#: inc/tk-widgets.php:34
+msgid "Please fill all widget settings!"
+msgstr ""
+
+#: inc/tk-widgets.php:48
+msgid "Couldn't find twitteroauth.php!"
+msgstr ""
+
+#: inc/tk-widgets.php:64
+msgid ""
+"You'll need to regenerate it <a href=\"https://dev.twitter.com/apps\" target="
+"\"_blank\">here</a>!"
+msgstr ""
+
+#: inc/tk-widgets.php:115
+msgid "<b>Error!</b> Couldn't retrieve tweets for some reason!"
+msgstr ""
+
+#: inc/tk-widgets.php:150 inc/tk-widgets.php:357
+msgid "Title:"
+msgstr ""
+
+#: inc/tk-widgets.php:152
+msgid "Consumer Key:"
+msgstr ""
+
+#: inc/tk-widgets.php:154
+msgid "Consumer Secret:"
+msgstr ""
+
+#: inc/tk-widgets.php:156
+msgid "Access Token:"
+msgstr ""
+
+#: inc/tk-widgets.php:158
+msgid "Access Token Secret:"
+msgstr ""
+
+#: inc/tk-widgets.php:160
+msgid "Cache Tweets in every:"
+msgstr ""
+
+#: inc/tk-widgets.php:162
+msgid "Twitter Username:"
+msgstr ""
+
+#: inc/tk-widgets.php:164
+msgid "Tweets to display:"
+msgstr ""
+
+#: inc/tk-widgets.php:172
+msgid "Exclude replies:"
+msgstr ""
+
+#: inc/tk-widgets.php:221
+msgid "right now"
+msgstr ""
+
+#: inc/tk-widgets.php:223
+msgid " seconds ago"
+msgstr ""
+
+#: inc/tk-widgets.php:225
+msgid "about 1 minute ago"
+msgstr ""
+
+#: inc/tk-widgets.php:227
+msgid " minutes ago"
+msgstr ""
+
+#: inc/tk-widgets.php:229
+msgid "about 1 hour ago"
+msgstr ""
+
+#: inc/tk-widgets.php:231
+msgid " hours ago"
+msgstr ""
+
+#: inc/tk-widgets.php:233
+msgid "yesterday"
+msgstr ""
+
+#: inc/tk-widgets.php:235
+msgid " days ago"
+msgstr ""
+
+#: inc/tk-widgets.php:237
+msgid "over a year ago"
+msgstr ""
+
+#: inc/tk-widgets.php:253
+msgid " - Newsletter"
+msgstr ""
+
+#: inc/tk-widgets.php:279 inc/tk-widgets.php:287
+msgid "ENTER YOUR EMAIL..."
+msgstr ""
+
+#: inc/tk-widgets.php:280 inc/tk-widgets.php:290
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: inc/tk-widgets.php:361
+msgid "Newsletter Text:"
+msgstr ""
+
+#: inc/tk-widgets.php:365
+msgid "Chose Service:"
+msgstr ""
+
+#: inc/tk-widgets.php:374
+msgid "MadMimi Unique Number:"
+msgstr ""
+
+#: inc/tk-widgets.php:376
+msgid "Insert your MadMimi unique number.Click "
+msgstr ""
+
+#: inc/tk-widgets.php:376 inc/tk-widgets.php:386
+msgid "here"
+msgstr ""
+
+#: inc/tk-widgets.php:376
+msgid ""
+" or you can find this number when you log in into your MadMimi account, "
+"under WEBFORM click on SHARE and you will get link like this http://mad.ly/"
+"signups/<strong>XXXXX</strong>/join. Insert this number here."
+msgstr ""
+
+#: inc/tk-widgets.php:379
+msgid "MailChimp API Key:"
+msgstr ""
+
+#: inc/tk-widgets.php:384
+msgid "MailChimp API List:"
+msgstr ""
+
+#: inc/tk-widgets.php:386
+msgid "Grab your Lists Unique Id by going to "
+msgstr ""
+
+#: inc/tk-widgets.php:386
+msgid ""
+" Click the \"settings\" link for the list - the Unique Id is at the bottom "
+"of that page."
+msgstr ""
+
+#: inc/tk-widgets.php:404
+msgid " - Facebook"
+msgstr ""
+
+#: inc/tk-widgets.php:454
+msgid "Facebook link:"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:516
+#: inc/apis/class-tgm-plugin-activation.php:2057
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:544
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:703
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1090
+msgid "External Link"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1095
+msgid "Private Repository"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1098
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1102
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1105
+msgid "Required"
+msgstr "Pflichtfeld"
+
+#: inc/apis/class-tgm-plugin-activation.php:1105
+msgid "Recommended"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1108
+msgid "Not Installed"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1110
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1280
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1296
+msgid "Plugin"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1297
+msgid "Source"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1298
+msgid "Type"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1299
+msgid "Status"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1317
+msgid "Install"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1318
+msgid "Activate"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1828
+msgid "Install package not available."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1829
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1830
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1831
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1832
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1833
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1844
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1954
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1955
+#: inc/apis/class-tgm-plugin-activation.php:1964
+msgid "Show Details"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1955
+#: inc/apis/class-tgm-plugin-activation.php:1964
+msgid "Hide Details"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1956
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1961
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1965
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1966
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: templates/old-ie.php:12
+msgid "YOUR BROWSER IS OUTDATED"
+msgstr "IHR BROWSER IST NICHT AKTUELL"
+
+#: templates/old-ie.php:13
+msgid "For a better experience, keep your browser up to date."
+msgstr ""
+"Bitte aktualisieren Sie Ihren Browser für eine optimale Benutzererfahrung."
+
+#: templates/old-ie.php:14
+msgid "Download Latest Versions"
+msgstr "Aktuelle Version herunterladen"
+
+#: templates/contents/contact-form.php:17
+msgid "Name&nbsp;"
+msgstr ""
+
+#: templates/contents/contact-form.php:22
+msgid "Email&nbsp;"
+msgstr ""
+
+#: templates/contents/contact-form.php:27
+msgid "Message&nbsp;"
+msgstr "Nachricht"
+
+#: templates/contents/contact-form.php:41
+msgid "Cant read? Refresh Image: "
+msgstr "Nicht lesbar? Neu laden:"
+
+#: templates/contents/contact-form.php:53
+msgid "Send Message"
+msgstr "Senden"
+
+#: templates/contents/content-audio.php:60
+#: templates/contents/content-video.php:62 templates/contents/content.php:42
+#, php-format
+msgid "Continue reading %s"
+msgstr "Weiterlesen %s"
+
+#: templates/contents/content-audio.php:67
+#: templates/contents/content-link.php:52
+#: templates/contents/content-page.php:21
+#: templates/contents/content-quote.php:48
+#: templates/contents/content-video.php:69 templates/contents/content.php:49
+msgid "Pages:"
+msgstr ""
+
+#: templates/contents/content-event.php:109
+msgid "This event has passed"
+msgstr "Vergangen"
+
+#: templates/contents/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: templates/contents/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/contents/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Ihre Suche ergibt kein Ergebnis. Bitte versuchen Sie es mit anderen "
+"Schlagwörtern."
+
+#: templates/contents/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Wir konnten nicht finden wonach Sie gesucht haben."
+
+#: templates/sections/section-albums.php:39
+msgid "Prev Album"
+msgstr "Vorherhige CD"
+
+#: templates/sections/section-albums.php:42
+#: templates/sections/section-albums.php:65
+msgid "View All Albums"
+msgstr "Alle CD's"
+
+#: templates/sections/section-albums.php:43
+#: templates/sections/section-albums.php:66
+msgid "All Albums"
+msgstr "Alle CD's"
+
+#: templates/sections/section-albums.php:62
+msgid "Next Album"
+msgstr "Nächste CD"
+
+#: templates/sections/section-albums.php:75
+#: templates/sections/section-albums.php:87
+msgid "There are no albums yet."
+msgstr ""
+
+#: templates/sections/section-albums.php:77
+#: templates/sections/section-albums.php:89
+msgid "Add new album"
+msgstr ""
+
+#: templates/sections/section-events.php:121
+msgid "There are no events yet."
+msgstr ""
+
+#: templates/sections/section-events.php:123
+msgid "Add new event"
+msgstr ""
+
+#: templates/sections/section-gallery.php:120
+msgid "There are no gallery items yet."
+msgstr ""
+
+#: templates/sections/section-gallery.php:122
+msgid "Add new gallery item"
+msgstr ""
