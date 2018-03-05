@@ -32,7 +32,7 @@ $args = array(
 
                                 <article class="quote">
                                  
-                                    <p class="quote-content"><?php the_field('quote_content'); ?> </p>
+                                    <p class="quote-content">"<?php the_field('quote_content'); ?>"</p>
                                     <h4 class="quote-name"><?php the_field('quote_name'); ?></h4>
                                     
                                 </article>

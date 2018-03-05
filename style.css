@@ -4369,16 +4369,25 @@ div.aligncenter {
 --------------------------------------------------------------*/
 
 .template-front-quotes {
-    padding: 8em 6em 0;
+    padding: 8em 0em 6em 0em;
+    background-color: #2f2f2f;
 }
 
 .quote {
-    color: black;
+    color: white;
     text-align: center;
 }
 
 .quote-name {
     opacity: .6;
+    color: white;
+}
+
+.quote-content {
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+    
 }
 
 /* Dots */
