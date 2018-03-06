@@ -12,7 +12,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="container">
-			<div class="row">
+			<div class="row"> 
 				<!-- FOOTER WIDGETS -->
 				<?php if ( is_active_sidebar( 'footer-widget-1' ) ) { ?>
 						<div class="col-lg-3 col-sm-6 widget-area">
