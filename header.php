@@ -113,6 +113,6 @@
 				<a class="dismiss-cookie-notification" href="">&#10006;</a>		
 		</div>
     
-</div>
+	</div>
 
 	<div id="content" class="site-content">

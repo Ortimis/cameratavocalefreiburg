@@ -777,9 +777,9 @@
         var siteHeight = siteWrapHeight + adminBarHeight;
         var footer = $('.site-footer');
 
-        if (siteHeight < y) {
+/*         if (siteHeight < y) {
             footer.addClass('sticky');
-        }
+        } */
 
     }); // End Window Load
 
