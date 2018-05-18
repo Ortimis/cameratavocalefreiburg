@@ -973,8 +973,10 @@ input[type="search"]::-webkit-search-results-decoration {
 2.0 Typography
 --------------------------------------------------------------*/
 
-@font-face {
+
+/* @font-face {
     font-family: 'hans-kendrick';
+   /*  src: url('https://fonts.googleapis.com/css?family=Roboto:300'); 
     src: url('layouts/fonts/HansKendrickRegular/HansKendrick-Regular-webfont.eot');
     src: url('layouts/fonts/HansKendrickRegular/HansKendrick-Regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('layouts/fonts/HansKendrickRegular/HansKendrick-Regular-webfont.woff2') format('woff2'),
@@ -1028,7 +1030,7 @@ input[type="search"]::-webkit-search-results-decoration {
         font-family: 'hans-kendrick';
         src: url('layouts/fonts/HansKendrickHeavy/HansKendrick-Heavy-webfont.svg');
     }
-}
+} */
 
 html {
 	font-size: 14px;
@@ -6556,4 +6558,34 @@ figure.wp-caption {
     }
 
 }
+
+.cookie-info {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(178, 37, 84, .6);
+    text-align: center;
+    padding: 10px 0px;
+    text-transform: none;
+    transition: bottom 0.2s ease-in-out;
+    color: white;
+    z-index: 1;
+    font-weight: 100;
+  }
+  .cookie-info p {
+    margin: 0;
+  }
+  .cookie-info a {
+    text-transform: uppercase;
+    color: white;
+    text-decoration-line: underline;
+  }
+  @media (max-width: 1100px) {
+    .cookie-info {
+      bottom: initial;
+      position: sticky;
+    }
+  }
+
 

@@ -107,5 +107,12 @@
 				</div>
 			</div><!-- .container -->
 		</header><!-- #masthead -->
+		<div class="cookie-info">
+			<p>Wir setzen auf unserer Webseite Cookies und Plugins zum Zwecke der Kundenbindung und Nutzererfahrung ein. Weitere Informationen finden Sie 
+				<a href="<?php echo home_url(); ?>/datenschutzerklaerung">hier</a>. Bitte klicken Sie auf <a class="dismiss-cookie-notification" href="">Ja</a>, wenn Sie damit einverstanden sind.
+				<a class="dismiss-cookie-notification" href="">&#10006;</a>		
+		</div>
+    
+</div>
 
 	<div id="content" class="site-content">
